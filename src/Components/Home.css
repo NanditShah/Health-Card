@@ -1,0 +1,137 @@
+/* Whole HOME DIV START */
+
+.home{
+    margin-left: 15%;
+    height: 50vh;
+    /* border: 1px solid red; */
+}
+.greet-message{
+    margin-top: 400px;
+}
+
+.register-button{
+    margin-top: 20px;
+    background-color: #f50057;
+    border: 1px solid white;
+    outline: none;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
+/* Whole HOME DIV END */
+
+
+
+/* -------------------------------------------------------------------------- */
+
+
+
+/* Whole INTRO DIV START */
+.heading{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.intro{
+    margin-left: 25px;
+    min-height: 80vh;
+    width: 100%;
+    /* margin-right: 25px; */
+}
+.questions{
+    width: 90%;
+}
+.answers{
+    margin-top: 20px;
+    width: 75%;
+}
+/* Whole INTRO DIV END */
+
+
+
+/* -------------------------------------------------------------------------- */
+
+
+
+/* Whole STEPS-TO-FOLLOW DIV START */
+
+.steps-to-follow{
+
+    /* align-items: center; */
+}
+
+/* Whole STEPS-TO-FOLLOW DIV END */
+
+
+
+/* -------------------------------------------------------------------------- */
+
+
+
+/* Whole PARTNERS DIV START */
+
+
+.partners{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.image{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.comapny{
+    margin: 50px;
+    border: 2px solid white;
+    height: 200px;
+    width: 200px;
+}
+
+/* Whole PARTNERS DIV END */
+
+
+/* -------------------------------------------------------------------------- */
+
+
+
+/* Whole USER-INFO DIV START */
+.users-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid white;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 80%;
+}
+
+
+.info-section{
+    margin: 50px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+/* Whole USER-INFO DIV END */
+
+
+
+/* -------------------------------------------------------------------------- */
+
+
+
+/* For Animation Purpose */
+.remove{
+    margin-left: -2000px;
+    opacity: 0;
+}

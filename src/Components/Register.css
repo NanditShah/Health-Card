@@ -1,0 +1,93 @@
+.register {
+  background: -webkit-radial-gradient(left, #3931af, #f50057);
+  margin-top: 3%;
+  padding: 3%;
+}
+.register-left {
+  text-align: center;
+  color: rgb(252, 255, 250);
+  margin-top: 5%;
+}
+
+.register-left img {
+  margin-top: 15%;
+  margin-bottom: 5%;
+  width: 25%;
+  -webkit-animation: mover 2s infinite alternate;
+  animation: mover 1s infinite alternate;
+}
+@-webkit-keyframes mover {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateX(-20px);
+  }
+}
+@keyframes mover {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateX(-20px);
+  }
+}
+.register-left p {
+  font-weight: lighter;
+  padding: 12%;
+  margin-top: -10%;
+}
+
+.register-right {
+  background: #f8f9fa;
+  border-top-left-radius: 10% 50%;
+  border-bottom-left-radius: 10% 50%;
+  border-top-right-radius: 10% 50%;
+  border-bottom-right-radius: 10% 50%;
+  margin-top: 0%;
+}
+.register-right ul {
+  margin-left: 25px;
+}
+
+.register-right .nav-tabs {
+  margin-top: 3%;
+  border: none;
+  background: #f50057;
+  border-radius: 1.5rem;
+  width: 24%;
+  position: relative;
+  left: 33%;
+}
+.register-right .nav-tabs .nav-link {
+  padding: 2%;
+  height: 34px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+  border-top-right-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+.register-right .nav-tabs .nav-link:hover {
+  border: none;
+}
+.register-right .nav-tabs .nav-link.active {
+  width: 100px;
+  color: #c74444;
+  border: 2px solid #c74444;
+  border-top-left-radius: 1.5rem;
+  border-bottom-left-radius: 1.5rem;
+}
+
+.register-right .register-heading {
+  text-align: center;
+  margin-top: 8%;
+  color: black;
+}
+
+.register-right .register-form {
+  padding: 4%;
+  margin-top: 0%;
+}
+.register-right .form-group {
+  margin-top: 30px;
+}
