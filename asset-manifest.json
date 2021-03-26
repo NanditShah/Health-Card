@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Health-Card/static/css/main.c9cc2674.chunk.css",
+    "main.js": "/Health-Card/static/js/main.71c38a4a.chunk.js",
+    "main.js.map": "/Health-Card/static/js/main.71c38a4a.chunk.js.map",
+    "runtime-main.js": "/Health-Card/static/js/runtime-main.890fb46b.js",
+    "runtime-main.js.map": "/Health-Card/static/js/runtime-main.890fb46b.js.map",
+    "static/css/2.150d169a.chunk.css": "/Health-Card/static/css/2.150d169a.chunk.css",
+    "static/js/2.77416ddc.chunk.js": "/Health-Card/static/js/2.77416ddc.chunk.js",
+    "static/js/2.77416ddc.chunk.js.map": "/Health-Card/static/js/2.77416ddc.chunk.js.map",
+    "index.html": "/Health-Card/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Health-Card/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c9cc2674.chunk.css.map": "/Health-Card/static/css/main.c9cc2674.chunk.css.map",
+    "static/js/2.77416ddc.chunk.js.LICENSE.txt": "/Health-Card/static/js/2.77416ddc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.890fb46b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.77416ddc.chunk.js",
+    "static/css/main.c9cc2674.chunk.css",
+    "static/js/main.71c38a4a.chunk.js"
+  ]
+}
